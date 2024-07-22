@@ -5,7 +5,9 @@
 The Industrial Copper Modeling project is a data science project aimed at employ machine learning techniques to address challenges involved in **Copper Industry Data** for manual predications. Especially skewness and noisy data which create more complexity in manual predictions. The project develops machine learning models such as **Classification and regresssion models** to address these issues by utilizing advanced techniques such as data normalization, feature scaling, and outlier detection, and leveraging algorithms that are robust to skewed and noisy data. Furthermore, the Project also include interactive web application using Streamlit wherein user can easily predict the selling price and deal status by easy interaction and/or data feeding
 
 **PROJECT ROADMAP**
+
 Save and Pull Dataset inside the Python Environment
+
 **Understanding the Data Structure**
   •	Variables and its datatypes 
   •	Null and Negative Values
