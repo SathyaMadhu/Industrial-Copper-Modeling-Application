@@ -7,26 +7,26 @@ The Industrial Copper Modeling project is a data science project aimed at employ
 **PROJECT ROADMAP**
 
 Save and Pull Dataset inside the Python Environment
-
-**Understanding the Data Structure**
-	Variables and its datatypes 
-	Null and Negative Values
- 
-**Data Preprocessing**
-  •	Handling missing values
-  •	Formatting
-**Exploratory Data Analysis (EDA)**
-  •	Visualization of outliers and skewness using Seaborn's plots.
-  •	Feature engineering and correlation analysis
-**Model Building and Evaluation**
-  •	Regression model Using Random Forest Regressor
-  •	Classification model using Random Forest Classifier
-**Streamlit Web Application**
-  •	Creation of an interactive web page for model predictions.
-  •	Input fields for user-provided data.
-  •	Display of predicted 'Selling_Price' or 'Status.'
-**Model Persistence:**
-  •	Saving of trained models, scaler, and encoders using the Pickle module.
+	
+	**Understanding the Data Structure**
+		Variables and its datatypes 
+		Null and Negative Values
+	 
+	**Data Preprocessing**
+	  •	Handling missing values
+	  •	Formatting
+	**Exploratory Data Analysis (EDA)**
+	  •	Visualization of outliers and skewness using Seaborn's plots.
+	  •	Feature engineering and correlation analysis
+	**Model Building and Evaluation**
+	  •	Regression model Using Random Forest Regressor
+	  •	Classification model using Random Forest Classifier
+	**Streamlit Web Application**
+	  •	Creation of an interactive web page for model predictions.
+	  •	Input fields for user-provided data.
+	  •	Display of predicted 'Selling_Price' or 'Status.'
+	**Model Persistence:**
+	  •	Saving of trained models, scaler, and encoders using the Pickle module.
 
 **PYTHON LIBRARIES/MODULES ENGAGED:**
     
