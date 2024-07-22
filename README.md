@@ -9,8 +9,9 @@ The Industrial Copper Modeling project is a data science project aimed at employ
 Save and Pull Dataset inside the Python Environment
 
 **Understanding the Data Structure**
-  •	Variables and its datatypes 
-  •	Null and Negative Values
+	Variables and its datatypes 
+	Null and Negative Values
+ 
 **Data Preprocessing**
   •	Handling missing values
   •	Formatting
