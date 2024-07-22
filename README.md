@@ -44,8 +44,8 @@ Save and Pull Dataset inside the Python Environment
 	    •	Streamlit_Option_Menu
 
 **OUTPUT INCLUDES**
-    •	User friendly Streamit App to predict the Selling Price
-    •	Trained Model in Jupyter file for understanding
+	    •	User friendly Streamit App to predict the Selling Price
+	    •	Trained Model in Jupyter file for understanding
 
 **CONCLUSION**
 
